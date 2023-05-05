@@ -45,7 +45,7 @@ dbj=
                 layout_height='600dp',--卡片高度◆
                 CardBackgroundColor='#FFFFFF',--卡片背景颜色
                 layout_margin='14dp',--卡片边距
-                layout_marginTop='20dp',--卡片顶距
+                layout_marginTop='22dp',--卡片顶距
                 elevation='2dp',--阴影属性
                 radius='10dp',--卡片圆角
                 {
@@ -81,7 +81,7 @@ dbj=
                 layout_height='600dp',--卡片高度◆
                 CardBackgroundColor='#FFFFFF',--卡片背景颜色
                 layout_margin='14dp',--卡片边距
-                layout_marginTop='20dp',--卡片顶距
+                layout_marginTop='22dp',--卡片顶距
                 elevation='2dp',--阴影属性
                 radius='10dp',--卡片圆角
                 {
