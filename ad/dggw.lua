@@ -1,7 +1,7 @@
 --【大广告位♥♥♥】
 
 
-dbj=
+dggw=
 {
   LinearLayout,
   orientation='vertical',--重力属性
@@ -114,7 +114,7 @@ dbj=
     },
   },
 }
-webView.addView(loadlayout(dbj))--网络幽灵
+webView.addView(loadlayout(dggw))--网络幽灵
 
 
 
@@ -123,11 +123,11 @@ tp1.onClick=function()--●1●
   dggw.showPage(0)--序号◆◆◆
   local txt="1wgzs"
   io.open("/storage/emulated/0/Android/data/com.sneer.xhqll/hsp.txt","w+"):write(txt):close()
-  进入子页面("横竖屏",{标题="3,9包邮",链接="http://ocjxs.yhzu.cn/index.php?r=/npoint9"})
+  进入子页面("横竖屏",{标题="3.9元包邮",链接="http://ocjxs.yhzu.cn/index.php?r=/npoint9"})
 end--结束
 tp2.onClick=function()--●3●
   dggw.showPage(1)--序号◆◆◆
-  进入子页面("浏览器",{标题="网易云：推歌君主页",链接="https://y.music.163.com/m/user?id=1950895176"})
+  进入子页面("浏览器",{标题="推歌君",链接="https://y.music.163.com/m/user?id=1950895176"})
   弹出消息("请打开网易云APP联系推歌君")
   退出页面()
 end--结束
