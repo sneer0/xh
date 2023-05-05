@@ -118,6 +118,7 @@ webView.addView(loadlayout(dbj))--网络幽灵
 
 
 
+--点击事件♥♥♥♥♥
 tp1.onClick=function()--●1●
   dggw.showPage(0)--序号◆◆◆
   进入子页面("横竖屏",{标题="3,9包邮",链接="http://ocjxs.yhzu.cn/index.php?r=/npoint9"})
