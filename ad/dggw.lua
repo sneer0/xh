@@ -124,6 +124,7 @@ tp1.onClick=function()--●1●
   local txt="1wgzs"
   io.open("/storage/emulated/0/Android/data/com.sneer.xhqll/hsp.txt","w+"):write(txt):close()
   进入子页面("横竖屏",{标题="3.9元包邮",链接="http://ocjxs.yhzu.cn/index.php?r=/npoint9"})
+  退出页面()
 end--结束
 tp2.onClick=function()--●3●
   dggw.showPage(1)--序号◆◆◆
