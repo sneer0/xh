@@ -1,4 +1,4 @@
---【其他搜索】
+--【其他搜索(作废)】
 --进入子页面("浏览器",{标题="小鸡词典",链接="https://jikipedia.com/search?phrase="..edit.text.."&category=definition"})
 
 
